@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://raccoon.place/@ygalanter">Mastodon</a>
+[Mastodon](https://raccoon.place/@ygalanter){:rel="me"}
